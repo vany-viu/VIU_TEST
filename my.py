@@ -1,2 +1,4 @@
 a = 20
-print(f"Mi var a es {a}")
+b = 10
+
+print(f"My result is {a * b}")
